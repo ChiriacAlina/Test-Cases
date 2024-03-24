@@ -1,17 +1,18 @@
 # Test-Cases
+----------------
 **Test case 1**
 
-Title: Check if the research will bring you results
+**Title: Check if the research will bring you results**
 
-Description: Check if the search case will give to the user any suggestion for the products related to his wish.
+**Description: Check if the search case will give to the user any suggestion for the products related to his wish.**
 
 Steps to reproduce:
 
-    Go to the search button
+  1. Go to the search button
 
-    Write the name of the product to be found
+  2. Write the name of the product to be found
 
-    See if there are any suggestion for the product
+  3. See if there are any suggestion for the product
 
 Expected results: The user should receive at least one product from the research.
 
