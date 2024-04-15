@@ -7,11 +7,8 @@
 **Description: Check if the search case will give to the user any suggestion for the products related to his wish.**
 
 Steps to reproduce:
-
   1. Go to the search button
-
   2. Write the name of the product to be found
-
   3. See if there are any suggestion for the product
 
 Expected results: The user should receive at least one product from the research.
@@ -99,5 +96,22 @@ Steps to reproduce:
 Expected results: User should not be able to login on the website and should receive an error alert.
 
 Test data: no credentials
+
+-------------
+**Test case 6**
+
+**Title: Scroll down on Facebook**
+
+**Description: Check if the scroll down is working on Messenger.**
+
+Steps to reproduce:
+  1. Go to www.facebook.com/login
+  2. Enter the valid credentials
+  3. Press login button
+  4. Go to Consersations/Messenger
+
+Expected results: User should be able to scroll down in Consersations.
+
+Test data: (User: xxxxx & pass: 123)
 
 
