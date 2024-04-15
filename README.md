@@ -24,11 +24,8 @@ Test data: Radio, phone
 **Description: The product written in the search should auto-fill after at least 4 letters if there are not any other suggestions.**
 
 Steps to reproduce:
-
   1. Go to the search button
-
   2. Write a product name with 4 letters
-
   3. See if you receive the auto-filled name
 
 Expected results: Receive the list of the product named.
@@ -44,11 +41,8 @@ Test data: boxa
 **Description: If the user will write a product and is not found in the list, he should not receive an error but an alert with "0" results on the website.**
 
 Steps to reproduce:
-
   1. Go to the search button
-
   2. Write an nonexistent product
-
   3. Se if an error appear
 
 Expected results: To receive an alert that the product is not on the website instead of an unknown error.
@@ -64,11 +58,8 @@ Test data: boxxxxx
 **Description: Check if the login works when user enters the correct credentials.**
 
 Steps to reproduce:
-
   1. Open website website.com/login
-
   2. Add correct user pass
-
   3. Click login button
 
 Expected result: User should be able to login and redirected to his profile page.
@@ -86,11 +77,8 @@ Pre-conditions: User should have an valid account.
 **Description: Check if the login works when a person use no credentials.**
 
 Steps to reproduce:
-
   1. Go to website.com/login
-
   2. Enter no credentials
-
   3. Press login button
 
 Expected results: User should not be able to login on the website and should receive an error alert.
@@ -107,8 +95,8 @@ Test data: no credentials
 Steps to reproduce:
   1. Go to www.facebook.com/login
   2. Enter the valid credentials
-  3. Press login button
-  4. Go to Consersations/Messenger
+  3. Press the login button
+  4. Go to Consersations/Messenger and scroll down
 
 Expected results: User should be able to scroll down in Consersations.
 
